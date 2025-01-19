@@ -31,7 +31,7 @@ $(document).ready(function () {
             chatBox.scrollTop = chatBox.scrollHeight;
         }
     }
-
+ 
     eel.expose(receiverText)
     function receiverText(message) {
 

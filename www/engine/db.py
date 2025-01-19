@@ -8,4 +8,4 @@ cursor.execute(query)
 
 query = "INSERT INTO sys_command VALUES(null,'','')"
 cursor.execute(query)
-conn.commit()
+conn.commit() 

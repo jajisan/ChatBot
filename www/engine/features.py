@@ -184,7 +184,7 @@ def chatBot(query):
     print(response)
     speak(response)
     return response
-
+ 
 # android automation
 
 def makeCall(name, mobileNo):

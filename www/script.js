@@ -24,7 +24,7 @@ function canvasApp() {
 	if (!canvasSupport()) {
 		return;
 	}
-
+ 
 	var theCanvas = document.getElementById("canvasOne");
 	var context = theCanvas.getContext("2d");
 
